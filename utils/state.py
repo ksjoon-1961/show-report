@@ -13,8 +13,8 @@ KEY_ART_NONCE    = "art_nonce"      # Art 업로더 key 회전용
 
 # --- 기본값 ---
 DEFAULT_AGE   = "01세"
-DEFAULT_MONTH = "05월"
-DEFAULT_WEEK  = "03주"
+DEFAULT_MONTH = "03월"
+DEFAULT_WEEK  = "01주"
 
 
 def init_state() -> None:
