@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 20
+maxRequestSize = 500
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
